@@ -6,7 +6,7 @@ My very first github project to track my changes as I learn my first proper prog
 # My Current Position
 I am a student just starting out my journey into the world of programming. Since Python is one of the key languages in the requirements for AI/ML jobs, that is the language I decided was optimal to break me in into the computing world.
 
-While I have used Visual Basic and simple HTML before, none of them were used or explored to the extent I that I would say I could even be considered to have passed the beginner's level of expertise in using them. As I continue on this task, I plan to track all of my daily python tests and practises in this repository. If I were to take on more complex or specialized projects, I will create a separate repository for them.
+While I have used Visual Basic and basic HTML before, none of them were used or explored to the extent that could be considered anything beyond the expertise level of a beginner. Now with my studies of Python, I am planning to change that and take my first steps into the coding world. As I continue on this task, I plan to track all of my daily python tests and practises in this repository. If I were to take on more complex or specialized projects, I will create a separate repository for them. 
 
 
 
