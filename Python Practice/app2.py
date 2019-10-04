@@ -1,3 +1,4 @@
+# The following block of code is a converter which converts pounds to kilograms and vice versa
 unit = input("Which unit of measurement do you want to use? (lbs or kg): ")
 if unit == "kg" or unit == "KG" or unit == "Kg":
     unit = "kg"
@@ -17,6 +18,8 @@ if unit == "kg" or unit == "lbs":
     print(f"Your weight is {weight}{unit}.")
 else:
     print("Next time please pay better attention to the rules.")
+    
+# ---------------------------------------------------------------------------------------------
 
 print()
 
@@ -25,6 +28,7 @@ print()
 print()
 
 
+# # The following block of code is a test on conditional if else statements
 high_income = False
 good_credit = True
 
@@ -35,12 +39,15 @@ elif good_credit and not high_income:
 elif good_credit or high_income:
     print("Eligible for micro loan.")
 else:
-    print("You're not even eligible for a fucking loan.")
+    print("You're not even eligible for a loan in the first place.")
 
+# --------------------------------------------------------------------------
 
 print()
 
 
+# The following block of code is a username entering screen where the user has 
+# several restrictions concerning the length of the username they choose to use
 name = input("Enter your name: ")
 
 if len(name) < 3:
@@ -51,3 +58,5 @@ else:
     print(f"Thank you, {name.title()}. You will be redirected shortly...")
 print()
 print()
+
+# ------------------------------------------------------------------------------
