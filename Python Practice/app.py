@@ -1,4 +1,5 @@
 # The following code block is a practise of simple math functions using the math module
+
 course = "this is a test sentence."
 import math
 y = -2.9
@@ -30,6 +31,7 @@ else:
     
 # The following block of code is another test on if and else statements. It checks the credit of a buyer
 # and accordingly makes a down payment decision
+
 print("this is just a test")
 print()
 print()
