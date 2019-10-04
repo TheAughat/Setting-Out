@@ -1,12 +1,4 @@
-numbers = [5, 2, 5, 2, 2]
-
-for x_count in numbers:
-    output = ""
-    for count in range(x_count):
-        output += "x"
-    print(output)
-
-print()
+# The following block of code writes the times table for anything till times 10. Users can enter 'please stop' to quit
 
 print('Writes the times table for anything till times 10. Enter "please stop" to quit.')
 while True:
