@@ -1,4 +1,5 @@
 # The following block of code is a For Loops Range function testing
+
 for number in range(1, 10):
   print("Attempting", str(number) + (number * "."))
 print()
@@ -11,7 +12,8 @@ for numero in range(200):
   
 
 # The following block of code makes large letters L or F show up on screen, built of 'x's.
-print()
+
+print() # adds a line break in the output
 
 pressed = input('Type L or F to show it on the screen! ').lower()
 
