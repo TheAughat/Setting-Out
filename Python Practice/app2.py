@@ -1,4 +1,5 @@
 # The following block of code is a converter which converts pounds to kilograms and vice versa
+
 unit = input("Which unit of measurement do you want to use? (lbs or kg): ")
 if unit == "kg" or unit == "KG" or unit == "Kg":
     unit = "kg"
@@ -29,6 +30,7 @@ print()
 
 
 # # The following block of code is a test on conditional if else statements
+
 high_income = False
 good_credit = True
 
@@ -48,6 +50,7 @@ print()
 
 # The following block of code is a username entering screen where the user has 
 # several restrictions concerning the length of the username they choose to use
+
 name = input("Enter your name: ")
 
 if len(name) < 3:
