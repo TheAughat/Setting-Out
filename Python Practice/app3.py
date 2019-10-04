@@ -1,23 +1,5 @@
-game_active = True
-while game_active:
-    txtbox = input('> ')
-    if txtbox.upper() == 'HELP':
-        print("""
-        start - to start the car
-        stop - to stop the car
-        help - to get the list of commands
-        quit - to exit the program""")
-    elif txtbox.upper() == 'START':
-        print('Car started... Ready to go!')
-    elif txtbox.upper() == 'STOP':
-        print('Car stopped.')
-    elif txtbox.upper() == 'QUIT':
-        break
-    else:
-        print('Error... Does not compute!')
-else:
-    print("Your car crashed. You've been terminated.")
-
+# The following block of code is a While loop that allows the user to guess a number. The loop terminates if they get it right.
+# If they don't get it right, they're allowed three tries before the loop automatically terminates with a message
 
 secret_number = 9
 guess_times = 0
