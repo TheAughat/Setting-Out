@@ -20,4 +20,4 @@ My main aim is to become an Artificial Intelligence/Machine Learning engineer an
 # Project Files
 The version of Python currently being used in this project is 3.7.2. 
 
-The files that can be found in this repo are python source code files that have several small blocks of code that serve their own functions. Every single block of code in the files is a practice or a test, segregated by comments that preface what their purpose is.
+The files that can be found in this repo are python source code files that have several small blocks of code that serve their own purposes. Every single block of code in the files is a practice or a test, segregated by comments that preface what their purpose is and what exactly it is they do.
