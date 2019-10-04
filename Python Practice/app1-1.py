@@ -1,5 +1,6 @@
 # The following block of code is a command line function app that takes in four commands, start, stpo, help, and quit
 # and prints responses on the terminal
+
 command = ""
 running = False
 
