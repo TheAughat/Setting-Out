@@ -28,5 +28,7 @@ quit - to exit the program
     break
   else:
     print('Error... does not compute.')
+else:
+    print("Your car crashed. You've been terminated.")
     
 # --------------------------------------------------------------------------------------------------------------
