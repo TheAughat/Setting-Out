@@ -1,5 +1,4 @@
-#For Loops Range function testing
-
+# The following block of code is a For Loops Range function testing
 for number in range(1, 10):
   print("Attempting", str(number) + (number * "."))
 print()
@@ -8,8 +7,10 @@ for numero in range(200):
   print("Attempting", numero + 1, (numeroo) * '.')
   numeroo += 1
 
-#Make L or F show up on screen
+# -------------------------------------------------------------------
+  
 
+# The following block of code makes large letters L or F show up on screen, built of 'x's.
 print()
 
 pressed = input('Type L or F to show it on the screen! ').lower()
@@ -30,3 +31,5 @@ elif pressed == "l":
     print()
 else:
   print('Error... does not compute!')
+  
+# ----------------------------------------------------------------------------------------
