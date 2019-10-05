@@ -11,7 +11,7 @@ While I have used *Visual Basic* and basic *HTML* before, none of them were used
 
 
 ## Aims
-My aims of this project are to learn the fundamentals of Python and keep studying the language until I can be considered an intermediate user. All of my practice code and simple self-study test codes that are generated as a result of my daily practice goes here.
+My aims of this project are to learn the fundamentals of Python and keep studying the language until I can be considered an intermediate coder. All of my practice code and simple self-study test codes that are generated as a result of my daily practice goes here.
 
 My main aim is to become an Artificial Intelligence/Machine Learning engineer and be able to break into the field by the time I am done with University. 
 
