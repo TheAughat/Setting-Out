@@ -6,7 +6,7 @@ Hello, world! This is my very first github project to track my changes as I lear
 ## My Current Position
 I am a student just starting out my journey into the world of programming. Since Python is one of the key languages in the requirements for AI/ML jobs, that is the language I decided was optimal to break me in into the computing world.
 
-While I have used *Visual Basic* and basic *HTML* before, none of them were used or explored to the extent that could be considered anything beyond the expertise level of a beginner. Now with my studies of *Python*, I am planning to change that and take my first *real* steps into the coding world. This entire 'Setting Out' project is one of experimentation, as I wet my feet by following along a Python tutorial published on YouTube by Mosh Hamedani (https://www.youtube.com/watch?v=_uQrJ0TkZlc). As I continue on this task, I plan to track all of my daily python tests and practises in this repository. If I were to take on more complex or specialized projects, I will create separate repositories for them. 
+While I have used *Visual Basic* and basic *HTML* before, none of them were used or explored to the extent that could be considered anything beyond the expertise level of a beginner. Now with my studies of *Python*, I am planning to change that and take my first *real* steps into the coding world. This entire 'Setting Out' project is one of experimentation, as I get my feet wet by following along a Python tutorial published on YouTube by Mosh Hamedani (https://www.youtube.com/watch?v=_uQrJ0TkZlc). As I continue on this task, I plan to track all of my daily python tests and practises in this repository. If I were to take on more complex or specialized projects, I will create separate repositories for them. 
 
 
 
